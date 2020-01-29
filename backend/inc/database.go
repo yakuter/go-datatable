@@ -15,7 +15,7 @@ var err error
 // InitDB opens a database and saves the reference to `Database` struct.
 func InitDB() *gorm.DB {
 
-	//driver := dbconf.Database.Driver
+	// DATABASE INFORMATION
 	database := "yakuter"
 	username := "yakuter"
 	password := ""
