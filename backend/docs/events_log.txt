@@ -1,0 +1,150 @@
+2019-08-08 12:02:21 SY08 W2 <-- Event: Cyclic Communication
+2019-08-08 12:01:29 WE09  A --> Event: NAMUR Error Tacho
+2019-08-08 12:01:23 CA01  A --> Event: Error LC Input
+2019-08-08 12:01:09 SY08 W2 --> Event: Cyclic Communication
+2019-08-08 12:01:09 IL01 W1 --> Event: Run Disabled
+2019-08-08 12:01:09 SY14 W2 --> Event: Simulation active
+2019-08-08 12:01:04 WE01  A --> Event: Power Failure
+2019-07-31 17:34:21 WE09  A --> Event: NAMUR Error Tacho
+2019-07-31 17:33:44 WE11  A --> Event: NAMUR Error Tacho (2nd)
+2019-07-31 17:33:22 WE09  A <-- Event: NAMUR Error Tacho
+2019-07-31 17:33:22 WE09  A --> Event: NAMUR Error Tacho
+2019-07-31 17:33:21 WE11  A <-- Event: NAMUR Error Tacho (2nd)
+2019-07-31 17:33:21 WE09  A <-- Event: NAMUR Error Tacho
+2019-07-31 16:44:46 WE09  A --> Event: NAMUR Error Tacho
+2019-07-31 16:44:17 WE11  A --> Event: NAMUR Error Tacho (2nd)
+2019-07-31 16:44:05 WE11  A <-- Event: NAMUR Error Tacho (2nd)
+2019-07-31 16:44:05 WE09  A <-- Event: NAMUR Error Tacho
+2019-07-31 16:44:05 WE01  A <-- Event: Power Failure
+2019-07-31 16:43:51 WE11  A --> Event: NAMUR Error Tacho (2nd)
+2019-07-31 16:43:34 CA01  A --> Event: Error LC Input
+2019-07-31 16:43:31 WE09  A --> Event: NAMUR Error Tacho
+2019-07-31 16:43:21 SY08 W2 --> Event: Cyclic Communication
+2019-07-31 16:43:21 IL01 W1 --> Event: Run Disabled
+2019-07-31 16:43:21 SY14 W2 --> Event: Simulation active
+2019-07-31 16:43:16 WE01  A --> Event: Power Failure
+2019-07-31 13:32:33 WE09  A --> Event: NAMUR Error Tacho
+2019-07-31 13:32:10 WE11  A --> Event: NAMUR Error Tacho (2nd)
+2019-07-31 13:32:04 WE11  A <-- Event: NAMUR Error Tacho (2nd)
+2019-07-31 13:32:04 WE09  A <-- Event: NAMUR Error Tacho
+2019-07-31 10:26:05 WE11  A --> Event: NAMUR Error Tacho (2nd)
+2019-07-31 10:25:55 WE09  A --> Event: NAMUR Error Tacho
+2019-07-31 10:25:40 WE11  A <-- Event: NAMUR Error Tacho (2nd)
+2019-07-31 10:25:40 WE09  A <-- Event: NAMUR Error Tacho
+2019-07-31 10:25:40 WE01  A <-- Event: Power Failure
+2019-07-31 10:11:32 WE11  A --> Event: NAMUR Error Tacho (2nd)
+2019-07-31 10:09:04 WE09  A --> Event: NAMUR Error Tacho
+2019-07-31 10:03:27 CA01  A --> Event: Error LC Input
+2019-07-31 10:03:13 SY08 W2 --> Event: Cyclic Communication
+2019-07-31 10:03:13 IL01 W1 --> Event: Run Disabled
+2019-07-31 10:03:13 SY14 W2 --> Event: Simulation active
+2019-07-31 10:03:08 WE01  A --> Event: Power Failure
+2019-07-23 11:18:06 WE09  A --> Event: NAMUR Error Tacho
+2019-07-23 11:16:08 IL01 W1 --> Event: Run Disabled
+2019-07-23 11:12:57 WE11  A --> Event: NAMUR Error Tacho (2nd)
+2019-07-23 11:12:57 WE11 W1 <-- Event: NAMUR Error Tacho (2nd)
+2019-07-23 11:12:38 CA01  A --> Event: Error LC Input
+2019-07-23 11:12:38 CA01 W1 <-- Event: Error LC Input
+2019-07-23 11:12:30 WE09 W2 <-- Event: NAMUR Error Tacho
+2019-07-23 11:12:30 WE09 W2 --> Event: NAMUR Error Tacho
+2019-07-23 11:12:30 WE09 W1 <-- Event: NAMUR Error Tacho
+2019-07-23 11:04:41 WE09 W1 --> Event: NAMUR Error Tacho
+2019-07-23 11:02:32 WE11 W1 --> Event: NAMUR Error Tacho (2nd)
+2019-07-23 11:02:10 CA01 W1 --> Event: Error LC Input
+2019-07-23 11:01:57 SY08 W2 --> Event: Cyclic Communication
+2019-07-23 11:01:56 SY14 W2 --> Event: Simulation active
+2019-07-23 11:01:51 WE01  A --> Event: Power Failure
+2019-07-19 11:53:18 HI03 W2 --> Event: Load MAX
+2019-07-19 11:53:18 LO04 W2 --> Event: Speed MIN
+2019-07-19 11:51:50 LO04 W2 <-- Event: Speed MIN
+2019-07-19 11:51:50 HI03 W2 <-- Event: Load MAX
+2019-07-19 11:11:06 HI03 W2 --> Event: Load MAX
+2019-07-19 11:11:06 LO04 W2 --> Event: Speed MIN
+2019-07-19 11:10:51 LO04 W2 <-- Event: Speed MIN
+2019-07-19 11:10:51 HI03 W2 <-- Event: Load MAX
+2019-07-19 11:09:45 HI03 W2 --> Event: Load MAX
+2019-07-19 11:09:45 LO04 W2 --> Event: Speed MIN
+2019-07-19 11:09:30 LO04 W2 <-- Event: Speed MIN
+2019-07-19 11:09:30 HI03 W2 <-- Event: Load MAX
+2019-07-19 11:01:09 SY08 W2 --> Event: Cyclic Communication
+2019-07-19 11:01:03 SY08 W2 <-- Event: Cyclic Communication
+2019-07-19 10:58:35 HI03 W2 --> Event: Load MAX
+2019-07-19 10:58:35 LO04 W2 --> Event: Speed MIN
+2019-07-19 10:58:12 LO04 W2 <-- Event: Speed MIN
+2019-07-19 10:58:12 HI03 W2 <-- Event: Load MAX
+2019-07-19 10:58:09 SY08 W2 --> Event: Cyclic Communication
+2019-07-19 10:58:03 SY08 W2 <-- Event: Cyclic Communication
+2019-07-19 10:28:28 SY08 W2 --> Event: Cyclic Communication
+2019-07-19 10:28:22 SY08 W2 <-- Event: Cyclic Communication
+2019-07-19 10:08:29 HI03 W2 --> Event: Load MAX
+2019-07-19 10:08:29 LO04 W2 --> Event: Speed MIN
+2019-07-19 10:08:06 LO04 W2 <-- Event: Speed MIN
+2019-07-19 10:08:06 HI03 W2 <-- Event: Load MAX
+2019-07-19 09:58:24 HI03 W2 --> Event: Beladung MAX
+2019-07-19 09:58:24 LO04 W2 --> Event: Bandgeschwindigkeit MIN
+2019-07-19 09:39:07 WE09 W1 --> Event: NAMUR Fehler Tacho
+2019-07-19 09:38:36 WE11 W1 --> Event: NAMUR Fehler Tacho (2ter)
+2019-07-19 09:38:23 WE09 W1 <-- Event: NAMUR Fehler Tacho
+2019-07-19 09:38:23 WE01  A <-- Event: Netzausfall
+2019-07-19 09:38:00 SY08 W2 --> Event: Zykl. Kommunikation
+2019-07-19 09:38:00 SY08  A <-- Event: Zykl. Kommunikation
+2019-07-19 09:37:57 SY08  A --> Event: Zykl. Kommunikation
+2019-07-19 09:36:23 WE09 W1 --> Event: NAMUR Fehler Tacho
+2019-07-19 09:36:11 CA01 W1 --> Event: Fehler WZ-Eingang
+2019-07-19 09:35:57 SY14 W2 --> Event: Simulation aktiv
+2019-07-19 09:35:52 WE01  A --> Event: Netzausfall
+2019-07-18 17:05:49 WE09 W1 --> Event: NAMUR Fehler Tacho
+2019-07-18 17:05:10 WE01  A <-- Event: Netzausfall
+2019-07-18 17:05:07 CA01 W1 --> Event: Fehler WZ-Eingang
+2019-07-18 17:04:53 SY14 W2 --> Event: Simulation aktiv
+2019-07-18 17:04:48 WE01  A --> Event: Netzausfall
+2019-07-17 16:04:11 WE11 W1 --> Event: NAMUR Fehler Tacho (2ter)
+2019-07-17 16:03:31 WE09 W1 --> Event: NAMUR Fehler Tacho
+2019-07-17 16:03:04 WE11 W1 <-- Event: NAMUR Fehler Tacho (2ter)
+2019-07-17 16:03:02 WE09 W1 <-- Event: NAMUR Fehler Tacho
+2019-07-17 15:48:46 WE09 W1 --> Event: NAMUR Fehler Tacho
+2019-07-17 15:48:44 WE11 W1 --> Event: NAMUR Fehler Tacho (2ter)
+2019-07-17 15:47:52 WE11 W1 <-- Event: NAMUR Fehler Tacho (2ter)
+2019-07-17 15:47:52 WE09 W1 <-- Event: NAMUR Fehler Tacho
+2019-07-17 15:47:52 WE01  A <-- Event: Netzausfall
+2019-07-17 15:46:32 WE11 W1 --> Event: NAMUR Fehler Tacho (2ter)
+2019-07-17 15:44:42 WE09 W1 --> Event: NAMUR Fehler Tacho
+2019-07-17 15:44:24 CA01 W1 --> Event: Fehler WZ-Eingang
+2019-07-17 15:44:11 SY14 W2 --> Event: Simulation aktiv
+2019-07-17 15:44:06 WE01  A --> Event: Netzausfall
+2019-07-06 11:55:26 WE09 W1 --> Event: NAMUR Fehler Tacho
+2019-07-06 11:55:05 WE11 W1 --> Event: NAMUR Fehler Tacho (2ter)
+2019-07-06 11:54:51 HI03 W2 --> Event: Beladung MAX
+2019-07-06 11:54:51 LO04 W2 --> Event: Bandgeschwindigkeit MIN
+2019-07-06 11:54:40 WE11 W1 <-- Event: NAMUR Fehler Tacho (2ter)
+2019-07-06 11:54:40 WE09 W1 <-- Event: NAMUR Fehler Tacho
+2019-07-06 11:54:40 WE01  A <-- Event: Netzausfall
+2019-07-06 11:54:05 WE11 W1 --> Event: NAMUR Fehler Tacho (2ter)
+2019-07-06 11:54:00 CA01 W1 --> Event: Fehler WZ-Eingang
+2019-07-06 11:53:56 WE09 W1 --> Event: NAMUR Fehler Tacho
+2019-07-06 11:53:46 SY14 W2 --> Event: Simulation aktiv
+2019-07-06 11:53:41 WE01  A --> Event: Netzausfall
+2019-07-06 11:52:08 HI03 W2 --> Event: Beladung MAX
+2019-07-06 11:52:08 LO04 W2 --> Event: Bandgeschwindigkeit MIN
+2019-07-06 11:52:00 WE09 W1 --> Event: NAMUR Fehler Tacho
+2019-07-06 11:51:59 WE11 W1 --> Event: NAMUR Fehler Tacho (2ter)
+2019-07-06 11:51:56 WE11 W1 <-- Event: NAMUR Fehler Tacho (2ter)
+2019-07-06 11:51:56 WE09 W1 <-- Event: NAMUR Fehler Tacho
+2019-07-06 11:51:56 WE01  A <-- Event: Netzausfall
+2019-07-06 11:51:35 WE11 W1 --> Event: NAMUR Fehler Tacho (2ter)
+2019-07-06 11:51:26 CA01 W1 --> Event: Fehler WZ-Eingang
+2019-07-06 11:51:14 WE09 W1 --> Event: NAMUR Fehler Tacho
+2019-07-06 11:51:12 SY14 W2 --> Event: Simulation aktiv
+2019-07-06 11:51:07 WE01  A --> Event: Netzausfall
+2019-07-06 11:37:02 HI03 W2 --> Event: Beladung MAX
+2019-07-06 11:37:02 LO04 W2 --> Event: Bandgeschwindigkeit MIN
+2019-07-06 11:36:49 SY14 W2 --> Event: Simulation aktiv
+2019-07-06 11:31:57 WE09 W1 --> Event: NAMUR Fehler Tacho
+2019-07-06 11:31:46 IL01 W1 <-- Event: Freigabe fehlt
+2019-07-06 11:31:32 WE11 W1 --> Event: NAMUR Fehler Tacho (2ter)
+2019-07-06 11:31:12 WE09 W1 <-- Event: NAMUR Fehler Tacho
+2019-07-06 11:31:12 WE01  A <-- Event: Netzausfall
+2019-07-06 11:29:50 WE09 W1 --> Event: NAMUR Fehler Tacho
+2019-07-06 10:24:08 CA01 W1 --> Event: Fehler WZ-Eingang
+2019-07-06 10:23:54 IL01 W1 --> Event: Freigabe fehlt
+2019-07-06 10:23:48 WE01  A --> Event: Netzausfall

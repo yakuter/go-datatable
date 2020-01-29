@@ -1,0 +1,76 @@
+2019-08-08 12:01:01 Event: Power Failure
+2019-08-08 12:01:01 davon aus dem IS_LFT-Speicher: 89
+2019-08-08 12:01:01 Gesamtanzahl der Parameter: 271 Anzahl Bytes: 1696
+2019-08-08 12:01:01 EICHSPEICHER ist OK:  eich_chksum=12897 eich_size=712 
+2019-07-31 16:43:13 Event: Power Failure
+2019-07-31 16:43:13 davon aus dem IS_LFT-Speicher: 89
+2019-07-31 16:43:13 Gesamtanzahl der Parameter: 271 Anzahl Bytes: 1696
+2019-07-31 16:43:13 EICHSPEICHER ist OK:  eich_chksum=12897 eich_size=712 
+2019-07-31 10:03:05 Event: Power Failure
+2019-07-31 10:03:05 davon aus dem IS_LFT-Speicher: 89
+2019-07-31 10:03:05 Gesamtanzahl der Parameter: 271 Anzahl Bytes: 1696
+2019-07-31 10:03:05 EICHSPEICHER ist OK:  eich_chksum=12897 eich_size=712 
+2019-07-23 11:26:27 Stop Keyboard Mode
+2019-07-23 11:03:10 Start Simulation
+2019-07-23 11:03:10 Start Keyboard Mode
+2019-07-23 11:03:10 Disconnect EasyServe (not FB)
+2019-07-23 11:01:49 Event: Power Failure
+2019-07-23 11:01:49 davon aus dem IS_LFT-Speicher: 89
+2019-07-23 11:01:49 Gesamtanzahl der Parameter: 271 Anzahl Bytes: 1696
+2019-07-23 11:01:49 EICHSPEICHER ist OK:  eich_chksum=58838 eich_size=712 
+2019-07-19 11:53:08 Start Feeder
+2019-07-19 11:51:50 Stop Feeder
+2019-07-19 11:10:56 Start Feeder
+2019-07-19 11:10:51 Stop Feeder
+2019-07-19 11:09:35 Start Feeder
+2019-07-19 11:09:30 Stop Feeder
+2019-07-19 10:58:25 Start Feeder
+2019-07-19 10:58:12 Stop Feeder
+2019-07-19 10:08:19 Start Feeder
+2019-07-19 10:08:14 Stop Feeder
+2019-07-19 10:08:12 Start Keyboard Mode
+2019-07-19 10:08:07 Start Feeder
+2019-07-19 10:08:06 Stop Feeder
+2019-07-19 09:58:14 Einschalten
+2019-07-19 09:38:41 Simulationsbetrieb EIN
+2019-07-19 09:38:41 Tastaturbetrieb AUS
+2019-07-19 09:38:40 EasyServe Abmelden (nicht FB)
+2019-07-19 09:38:29 Ausschalten
+2019-07-19 09:38:25 Einschalten
+2019-07-19 09:35:51 Event: Netzausfall
+2019-07-19 09:35:51 davon aus dem IS_LFT-Speicher: 89
+2019-07-19 09:35:51 Gesamtanzahl der Parameter: 271 Anzahl Bytes: 1696
+2019-07-19 09:35:51 EICHSPEICHER ist OK:  eich_chksum=30228 eich_size=712 
+2019-07-18 17:04:47 Event: Netzausfall
+2019-07-18 17:04:47 davon aus dem IS_LFT-Speicher: 89
+2019-07-18 17:04:47 Gesamtanzahl der Parameter: 271 Anzahl Bytes: 1696
+2019-07-18 17:04:47 EICHSPEICHER ist OK:  eich_chksum=30228 eich_size=712 
+2019-07-17 16:03:07 Ausschalten
+2019-07-17 16:03:05 Einschalten
+2019-07-17 16:02:36 Chargieren abwählen
+2019-07-17 16:01:23 Chargieren anwählen
+2019-07-17 15:44:05 Event: Netzausfall
+2019-07-17 15:44:05 davon aus dem IS_LFT-Speicher: 89
+2019-07-17 15:44:05 Gesamtanzahl der Parameter: 271 Anzahl Bytes: 1696
+2019-07-17 15:44:05 EICHSPEICHER ist OK:  eich_chksum=30228 eich_size=712 
+2019-07-06 11:54:41 Einschalten
+2019-07-06 11:53:40 Event: Netzausfall
+2019-07-06 11:53:40 davon aus dem IS_LFT-Speicher: 89
+2019-07-06 11:53:40 Gesamtanzahl der Parameter: 271 Anzahl Bytes: 1696
+2019-07-06 11:53:40 EICHSPEICHER ist OK:  eich_chksum=30228 eich_size=712 
+2019-07-06 11:51:58 Einschalten
+2019-07-06 11:51:06 Event: Netzausfall
+2019-07-06 11:51:06 davon aus dem IS_LFT-Speicher: 89
+2019-07-06 11:51:06 Gesamtanzahl der Parameter: 271 Anzahl Bytes: 1696
+2019-07-06 11:51:06 EICHSPEICHER ist OK:  eich_chksum=30228 eich_size=712 
+2019-07-06 11:36:52 Einschalten
+2019-07-06 11:36:49 Simulationsbetrieb EIN
+2019-07-06 11:26:30 Simulationsbetrieb AUS
+2019-07-06 11:26:30 Tastaturbetrieb AUS
+2019-07-06 11:26:30 EasyServe Abmelden (nicht FB)
+2019-07-06 10:24:16 Zeit übernehmen
+2019-07-06 10:23:46 Event: Netzausfall
+2019-07-06 10:23:46 davon aus dem IS_LFT-Speicher: 89
+2019-07-06 10:23:46 Gesamtanzahl der Parameter: 271 Anzahl Bytes: 1696
+2019-07-06 10:23:46 Werkseinstellung laden
+2019-07-06 10:23:46 EICHSPEICHER ist OK:  eich_chksum=545 eich_size=712 

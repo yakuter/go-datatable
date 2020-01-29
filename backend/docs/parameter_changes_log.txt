@@ -1,0 +1,56 @@
+2019-07-23 11:20:49  (W) P22.10 Data Log Value 7                          * (1898) Batch Resid. Amount ->  (0)  --- 
+2019-07-23 11:20:45  (W) P22.09 Data Log Value 6                          * (1896) Batch Actual Value ->  (0)  --- 
+2019-07-23 11:20:31  (W) P22.08 Data Log Value 5                          * (1884) Belt Speed ->  (1878) Totalizer 3
+2019-07-23 11:20:25  (W) P22.07 Data Log Value 4                          * (1880) Belt Load ->  (1876) Totalizer 2
+2019-07-23 11:16:08  (W) P16.01 Source Run Enable                          n/a          -> DI   IT.DI3  HIGH
+2019-07-23 11:15:39  (W) P04.02 Range Correction                          * 1.0000  ->  1.0230  
+2019-07-23 11:14:22  (W) P01.15 Data Log ON/OFF                           *not active -> active
+2019-07-23 11:12:57  (W) P14.15 Event: NAMUR Error Tacho (2nd)             W1 (Ack. required) -> ALARM (Stop feeder)  (WE11)
+2019-07-23 11:12:52  (W) P14.14 Event: Tachometer Input (2nd)              W1 (Ack. required) -> ALARM (Stop feeder)  (CA11)
+2019-07-23 11:12:38  (W) P14.06 Event: Error LC Input                      W1 (Ack. required) -> ALARM (Stop feeder)  (CA01)
+2019-07-23 11:12:34  (W) P14.04 Event: NAMUR Error Tacho                   W2 (Self resetting) -> ALARM (Stop feeder)  (WE09)
+2019-07-23 11:12:30  (W) P14.04 Event: NAMUR Error Tacho                  *W1 (Ack. required) -> W2 (Self resetting)  (WE09)
+2019-07-23 11:11:03  (W) P08.12 Zero Drop-Out Limit                       *   1.00  ->    0.30  % Fo
+2019-07-23 11:10:57  (W) P08.11 Zero Drop-Out Active                      *NO -> YES
+2019-07-23 11:10:04  (W) P04.06 Pulses per Belt                           *1000000  ->    4311  I/B 
+2019-07-23 11:08:48  (W) P04.04 Basic Tare                                *  0.000  -> 135.984  kg/m
+2019-07-23 11:08:14  (W) P03.08 Calibration Weight                        * 50.000  -> 102.530  kg 
+2019-07-23 11:07:24  (W) P03.05 Effective Platform Length                 *  2.000  ->   2.005   m  
+2019-07-23 11:07:05  (W) P03.04 LC Rated Capacity                         *1000.000  -> 680.000  kg 
+2019-07-23 11:06:56  (W) P03.02 Belt Circuit Time                         *   30.0  ->    40.7   s  
+2019-07-23 11:06:44  (W) P03.01 Belt Circuit No.                          *   1.00  ->    2.00  
+2019-07-23 11:06:22  (W) P02.13 Z1-Numberstep                               500 kg  ->  Automatic
+2019-07-23 11:06:04  (W) P02.08 Pulse Length Total                        *    300  ->     500  ms  
+2019-07-23 11:05:57  (W) P02.11 DO: Pulse Counter                          DO   IT.DO8  HIGH -> n/a         
+2019-07-23 11:05:50  (W) P02.09 Counter 2 Unit                            *-------   t -> ---.---   t
+2019-07-23 11:05:45  (W) P02.07 Counter 1 Unit                            *-------   t -> ---.---   t
+2019-07-23 11:05:39  (W) P02.05 Nominal Speed                             *3.00000  -> 3.18600  m/s 
+2019-07-23 11:05:02  (W) P02.06 Feeder Start                              *OP           ->  V          
+2019-07-23 11:04:56  (W) P02.01 Flow Rate Units                           *------  t/h -> ---.--  t/h
+2019-07-23 11:04:11  (W) P01.05 Scale Name                                *INTECONT Tersus VBWLFT  -> 56PA42 
+2019-07-23 11:02:48  (W) P21.01 IP Address                                *192.168.1.5  -> 192.168.1.6 
+2019-07-19 11:53:03  (W) P02.08 Pulse Length Total                        *   1000  ->     300  ms  
+2019-07-19 11:48:55  (W) P02.08 Pulse Length Total                        *   3000  ->    1000  ms  
+2019-07-19 11:09:23  (W) P02.08 Pulse Length Total                        *    500  ->    3000  ms  
+2019-07-19 11:09:01  (W) P02.11 DO: Pulse Counter                         *n/a          -> DO   IT.DO8  HIGH
+2019-07-19 10:07:50  (W) P01.01 Language                                   DEUTSCH -> ENGLISH
+2019-07-19 09:38:19  (W) P21.01 IP-Adresse                                *192.168.240.2  -> 192.168.1.5 
+2019-07-19 09:38:00  (W) P19.03 Event: Zykl. Kommunikation                *ALARM (Stop feeder) -> W2 (Self resetting)  (SY08)
+2019-07-19 09:37:54  (W) P19.01 Protokoll-Typ                             *NO ->  Modbus-TCP
+2019-07-06 11:49:50  (W) P02.08 Impulsdauer Zähler                        *   2000  ->     500  ms  
+2019-07-06 11:41:21  (W) P02.08 Impulsdauer Zähler                        *    500  ->    2000  ms  
+2019-07-06 11:39:54  (W) P02.11 DO: Impulsausgang                          DO   IT.DO8  HIGH -> n/a         
+2019-07-06 11:38:50  (W) P02.08 Impulsdauer Zähler                        *      0  ->     500  ms  
+2019-07-06 11:38:43  (W) P02.08 Impulsdauer Zähler                               5  ->       0  ms  
+2019-07-06 11:38:33  (W) P02.08 Impulsdauer Zähler                        *   2000  ->       5  ms  
+2019-07-06 11:37:43  (W) P02.08 Impulsdauer Zähler                        *   1200  ->    2000  ms  
+2019-07-06 11:37:17  (W) P02.08 Impulsdauer Zähler                        *   1000  ->    1200  ms  
+2019-07-06 11:31:46  (W) P16.01 Quelle Freigabe                           *DI   IT.DI3  HIGH -> n/a         
+2019-07-06 11:30:41  (W) P23.04 HMI-Wert 04                               * (1950) Tacho 1 ->  (1874) Zähler 1
+2019-07-06 11:29:30  (W) P02.14 Geschwindigkeitserfassung (2te)            n/a          -> DI   IT.DI4  HIGH
+2019-07-06 11:29:26  (W) P02.03 Geschwindigkeitserfassung                  n/a          -> DI   IT.DI5  HIGH
+2019-07-06 11:28:55  (W) P03.04 WZ-Nennlast                               *220.000  -> 1000.000  kg 
+2019-07-06 11:28:12  (W) P02.05 Nenngeschwindigkeit                       *1.00000  -> 3.00000  m/s 
+2019-07-06 11:27:53  (W) P03.05 Effektive Brückenlänge                    *  1.000  ->   2.000   m  
+2019-07-06 11:27:39  (W) P02.02 Max. Förderstärke Io                      *400.0000  -> 1000.0000  t/h 
+2019-07-06 11:26:10  (W) P21.01 IP-Adresse                                *192.168.240.1  -> 192.168.240.2 

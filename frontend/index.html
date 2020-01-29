@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Go Datatable (Serverside)</title>
+    <link href="css/jquery.dataTables.min.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+</head>
+
+<body>
+
+    <div class="container">
+        <h1>Go Datatable Serverside</h1>
+        <table class="go-datatable display" style="width:100%" >
+            <thead>
+            <tr>
+                <th>ID</th>
+                <th>Timestamp</th>
+                <th>Title</th>
+                <th>Slug</th>
+                <th>Category</th>
+                <th>Excerpt</th>
+            </tr>
+            </thead>
+            <tfoot>
+            <tr>
+                <th>ID</th>
+                <th>Timestamp</th>
+                <th>Title</th>
+                <th>Slug</th>
+                <th>Category</th>
+                <th>Excerpt</th>
+            </tr>
+            </tfoot>
+        </table>
+    </div>
+    
+    <script src="js/jquery-3.3.1.js"></script>
+    <script src="js/jquery.dataTables.min.js"></script>
+    <script>
+        $(document).ready(function(){
+            var table = $('.go-datatable').DataTable({
+                processing: true,
+                serverSide: true,
+                ajax: {
+                    url: "http://localhost:8081/posts",
+                },
+                columns: [
+                    { data: "ID" },
+                    { data: "Timestamp" },
+                    { data: "Title" },
+                    { data: "Slug" },
+                    { data: "Category" },
+                    { data: "Excerpt" }
+                ],
+                pageLength: 10,
+                responsive: true,
+            });
+
+        });
+    </script>
+</body>
+

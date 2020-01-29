@@ -1,0 +1,128 @@
+[       
+    {
+        "Timestamp": "2014-12-09T13:50:51.644000Z",
+        "Title": "Go ile Büyük JSON Dosyalarını Okuma",
+        "Slug": "go-ile-buyuk-json-dosyalarini-okuma",
+        "Excerpt": "Her geçen gün tüm altyapısını Go’ya geçiren yeni bir firma duyuyoruz. Bunun sebebi de tahmin edersiniz ki Go’nun sunmuş olduğu kolaylıklar. İşte bunlardan birisi de JSON Data Streaming. Bu özellik hangi problemi çözüyor derseniz başlıkta da belirttiğim gibi büyük boyutlu JSON dosyalarınızı dertsiz tasasız okumaya yarıyor.",
+        "Category": "Golang"
+    },
+    {
+        "Timestamp": "2014-12-09T13:50:51.644000Z",
+        "Title": "Laravel Projelerde SEO Uygulamaları",
+        "Slug": "laravel-projelerde-seo-uygulamalari",
+        "Excerpt": "Bir altyapı geliştirici (backend developer) olarak sıfırdan içerik yönetim sistemi yazıyorsanız mutlak projenin arama motoru optimizasyonunu da (SEO) düşünmelisiniz. Malum artık müşteriler sadece platform veya website istemiyorlar, hedefledikleri kelimelerde en üst sırada çıkacak sihirli sistemler talep ediyorlar.",
+        "Category": "PHP, Laravel"
+    },
+    {
+        "Timestamp": "2014-12-09T13:50:51.644000Z",
+        "Title": "PHP ve NATS ile Mikroservis Mesajlaşma Sistemi",
+        "Slug": "php-ve-nats-mikroservis-mesajlasma-sistemi",
+        "Excerpt": "NATS, bulut uyumlu (cloud native) uygulamalar için geliştirilmiş açık kaynak, basit, güvenli ve yüksek performanslı mesajlaşma sistemidir.",
+        "Category": "PHP, Laravel, Golang"
+    },
+    {
+        "Timestamp": "2014-12-09T13:50:51.644000Z",
+        "Title": "Go Dilinde Concurrency",
+        "Slug": "go-dilinde-concurrency",
+        "Excerpt": "Concurrency yani eş zamanlılık denildiğinde herhangi bir program içerisinde (n) sayıda görevin aynı anda çalışması akla gelmelidir. Daha teknik bir ifadeyle fonksiyonların sırayla değil, aynı anda çalıştırıldığı anlaşılmalıdır.",
+        "Category": "PHP, Laravel, Golang"
+    },
+    {
+        "Timestamp": "2014-12-09T13:50:51.644000Z",
+        "Title": "Laravel Projelerde SEO Uygulamaları",
+        "Slug": "laravel-projelerde-seo-uygulamalari",
+        "Excerpt": "Bir altyapı geliştirici (backend developer) olarak sıfırdan içerik yönetim sistemi yazıyorsanız mutlak projenin arama motoru optimizasyonunu da (SEO) düşünmelisiniz. Malum artık müşteriler sadece platform veya website istemiyorlar, hedefledikleri kelimelerde en üst sırada çıkacak sihirli sistemler talep ediyorlar. Tamam belki bu konuda sihir yapamayız ancak yine de Laravel framework ile geliştireceğimiz özgün içerik yönetim sistemlerinde oldukça kuvvetli bir SEO altyapısı kurabiliriz. Bu yazımda da bazı Laravel paketlerinden ve yapısal optimizasyon için hesaba katmanız gereken hususlardan bahsedeceğim.",
+        "Category": "PHP, Laravel, Golang"
+    },
+    {
+        "Timestamp": "2014-12-09T13:50:51.644000Z",
+        "Title": "Nasıl Linux Sistem Yöneticisi (Sysadmin) Olunur?",
+        "Slug": "nasil-linux-sistem-yoneticisi-sysadmin-olunur",
+        "Excerpt": "Herhangi bir sertifikayı alabilmeniz için de belirli bir çalışma rehberini tamamlamanız ve sonucunda tamamladığınız konulardan sınava girerek başarılı olmanız gerekir. Her ne kadar burada hedef sertifikayı alabilmek gibi görünse de sertifika programlarının esas katkısı sınav için çalıştığınız süreçte gizlidir. Bu öyle bir süreçtir ki özellikle yazılım ve geliştiricilik konusunda hemen hemen hiçbir detayı atlamadan, profesyoneller tarafından hazırlanmış bir rehberi enine boyuna çalışır ve kendinizi “gerçekten” geliştirirsiniz. İşte bu nedenle sertifikalara bağımlı kalmamalı, ilgi alanımızla ilgili sertifika programlarına bireysel olarak da çalışmalıyız.",
+        "Category": "PHP, Laravel, Golang"
+    },
+    {
+        "Timestamp": "2014-12-09T13:50:51.644000Z",
+        "Title": "Terminalden Linux (CentOS) Sürümünü Öğrenme",
+        "Slug": "terminalden-linux-centos-surumunu-ogrenme",
+        "Excerpt": "Piyasada birçok Linux dağıtımı vardır ve bu dağıtımlar sürekli geliştirilmeye devam edilmektedir. İşte bu gelişmeler nedeniyle sürekli yeni sürümler çıkmaktadır. Kullandığımız Linux dağıtımının sürümünü ise mutlaka bilmemiz gerekir çünkü üçüncü parti uygulamalar çoğu zaman belirli sürümlerle uyumlu çalışmaktadırlar. Bu yazıda da kullandığınız Linux dağıtımının farklı yollarla nasıl sürümünü öğrenebileceğinizi göstereceğim.",
+        "Category": "PHP, Laravel, Golang"
+    },
+    {
+        "Timestamp": "2014-12-09T13:50:51.644000Z",
+        "Title": "Go Programlama Dili (Golang) ile Ayar Dosyası Kullanımı",
+        "Slug": "go-programlama-dili-golang-ile-ayar-dosyasi-kullanimi",
+        "Excerpt": "Her projenin olmazsa olmazıdır ayar (konfigürasyon) dosyaları. Son zamanlarda bu maksatla .env (dotenv) kullanımı yaygınlaşmış olsa da, ben özellikle Go Programlama Dili ile oluşturduğum projelerde JSON kullanmayı tercih ediyorum. Bu yazıya temel olması için hazırladığım goconf mini projesinde de go ile json kullanımını göstermeye çalıştım.",
+        "Category": "PHP, Laravel, Golang"
+    },
+    {
+        "Timestamp": "2014-12-09T13:50:51.644000Z",
+        "Title": "Bash ile Dosya İsmi Değiştirme",
+        "Slug": "bash-ile-dosya-ismi-degistirme",
+        "Excerpt": "Linux sistemlerde Kabuk Programlama olarak da adlandırılan Bash Scripting ile dosya sistemindeki bir çok işlemi oldukça basit ve hızlı bir şekilde yerine getirebilirisiniz. Bu yazıyı yazmama vesile olan olayda durum şuydu, bir klasördeki 1000 adet uzantısı olmayan dosyanın sonuna “.txt” şeklinde uzantı eklemem, yani dosyanın ismini değiştirmem gerekiyordu. Durum böyle olunca hiç düşünmeden bash’e yöneldim. Çözümüm şu şekilde oldu.",
+        "Category": "PHP, Laravel, Golang"
+    },
+    {
+        "Timestamp": "2014-12-09T13:50:51.644000Z",
+        "Title": "Go Programlama Dili (Golang) For Döngüleri",
+        "Slug": "go-programlama-dili-golang-for-donguleri",
+        "Excerpt": "Go Programlama Dili (Golang)‘nin temel felsefesi gereksiz tüm kod yapılarından arındırılmış basit bir programlama dili olmak. Bu düşüncenin en önemli yansımalarını da döngülerde görüyoruz. Aslında “döngü” demem gerekir çünkü bu dilde yalnızca for döngüsü bulunmakta. Hani o diğer dillerde gördüğünüz while, foreach benzeri yapılar Go‘da yerini for‘a bırakmış durumda. Go ile veritabanı işlemlerinde de sıkça kullanılan for döngüsünün normal bir for olmadığını da belirtmem lazım. Zaten yazıyı yazmamın sebebi de bu. Detayları yazının devamında, yazıda belirtilen kodların derli toplu halini ise projenin github sayfasında bulabilirsiniz.",
+        "Category": "PHP, Laravel, Golang"
+    },
+    {
+        "Timestamp": "2014-12-09T13:50:51.644000Z",
+        "Title": "Go Programlama Dili (Golang) ile Veritabanı İşlemleri",
+        "Slug": "go-programlama-dili-golang-ile-veritabani-islemleri",
+        "Excerpt": "Go Programlama Dili (Golang) ile aklınıza gelebilecek hemen her projeyi hayata geçirebilirsiniz. Projelerin türüne göre kullanılan teknolojiler değişmektedir ancak veritabanlarının birçok projede yaygın olarak kullanıldığını söyleyebiliriz. İşte bu nedenle Golang ile veritabanı (mysql) kullanımını basit örnekler ve kodlarla anlatmak istedim. Eğer Go dili ile kodlamaya başlamak için gerekli çalışma ortamını hazırladıysanız haydi başlayalım.",
+        "Category": "PHP, Laravel, Golang"
+    },
+    {
+        "Timestamp": "2014-12-09T13:50:51.644000Z",
+        "Title": "Go Programlama Dili (Golang) ile Dosya İşlemleri",
+        "Slug": "go-programlama-dili-golang-ile-dosya-islemleri",
+        "Excerpt": "Google tarafından geliştirilen ve geleceği oldukça parlak olan Go Programlama Dili (Golang) ile dosya işlemlerini (dosya oluştur, oku, yaz, kapat, sil, isim değiştir vs.) gerçekleştirmek oldukça kolay. Github sayfamda örnek kodlarını paylaştığım konuya burada da kısaca değinmek istiyorum. Tabi burada yazılanları yapabilmek için önce Go kurulumunu yapmış olmanız gerektiğini unutmayınız.",
+        "Category": "PHP, Laravel, Golang"
+    },
+    {
+        "Timestamp": "2014-12-09T13:50:51.644000Z",
+        "Title": "Bootstrap’te Borderless (Sınırları Olmayan) Table Oluşturmak",
+        "Slug": "bootstrapte-borderless-sinirlari-olmayan-table-olusturmak",
+        "Excerpt": "Bootstrap bünyesinde table’ları şekillendirmek için birkaç seçici hazır olarak bulunmaktadır. Örneğin table-bordered, table-striped gibi. Fakat bazen table’da hiç sınır (border) bulunmasını istemeyiz. İşe böyle bir durumda aşağıdaki css kodundan faydalanabilirsiniz.",
+        "Category": "PHP, Laravel, Golang"
+    },
+    {
+        "Timestamp": "2014-12-09T13:50:51.644000Z",
+        "Title": "Go Programlama Dili (Golang)’nde Dizi İçinden Rastgele Veri Çağırmak",
+        "Slug": "go-programlama-dili-golangnde-dizi-icinden-rastgele-veri-cagirmak",
+        "Excerpt": "Go programlama dilinde (Golang) diğer dillerde olduğu gibi diziler mevcuttur. Bazen dizi elemanlarının tamamını değil de dizi içerisinden rastgele bir veriyi/elemanı çağırmak isteriz. İşte böyle bir durumda aşağıdaki örnek koddan faydalanabilirsiniz.",
+        "Category": "PHP, Laravel, Golang"
+    },
+    {
+        "Timestamp": "2014-12-09T13:50:51.644000Z",
+        "Title": "jQuery Türkçe Slug Eklentisi",
+        "Slug": "jquery-turkce-slug-eklentisi",
+        "Excerpt": "Slug dediğimiz olay aslında kullanıcı dostu adres yani url’dir. Malum bu zamanda kimse /index.php?page_id=12 gibi bir adres görmek istemez. Onun yerine /hakkimizda gibi adres satırları tercih edilir. Bunu yapan bir çok eklenti bulunsa da malesef yabancıların yaptıklarında Türkçe karakterler doğru şekilde çalışmıyor. Esas sorun ise ö‘yü “oe” şeklinde ve ü‘yü “ue” şeklinde dönüştürmelerinden kaynaklanıyor.",
+        "Category": "PHP, Laravel, Golang"
+    },
+    {
+        "Timestamp": "2014-12-09T13:50:51.644000Z",
+        "Title": "Laravel Site Settings",
+        "Slug": "laravel-site-settings",
+        "Excerpt": "Laravel ile zor gibi görünen birçok konu aslında oldukça basit yöntemlerle çözülebiliyor. Bunun bir örneği de site ayarları oluşturma ve bu ayarları cache olarak tutarak performansı yükseltme. Aslında bu konuyu daha önce Laravel | Site Ayarları Oluşturma başlıklı yazıda anlatmıştım. Şimdi ise kısa bir boş vaktimde söz konusu yazıda anlattığım site ayarlarının hazır kurulu olduğu bir Laravel Site Settings mini projesi üreterek github’a yükledim. Artık projeyi indirebilir, kodları dilediğiniz gibi inceleyebilirsiniz.",
+        "Category": "PHP, Laravel, Golang"
+    },
+    {
+        "Timestamp": "2014-12-09T13:50:51.644000Z",
+        "Title": "Laravel Ajax Contact Form",
+        "Slug": "laravel-ajax-contact-form",
+        "Excerpt": "Bir PHP çatısı (framework) olan Laravel ile uygulama geliştirirken basit ajax formlarına ihtiyaç duyabiliyoruz. Konuyu anlatmak için bu yazıya başladığımda en iyi anlatma şeklinin bir örnek (mini proje) geliştirmek olduğunu düşündüm ve bu sebeple Laravel Ajax Contact Form (iletişim formu) hazırladım. Aslında daha önce Laravel ile eposta göndermeyi anlatmıştım ancak bu sefer ki ajax da içeren daha derli toplu bir mini proje oldu.",
+        "Category": "PHP, Laravel, Golang"
+    },
+    {
+        "Timestamp": "2014-12-09T13:50:51.644000Z",
+        "Title": "Laravel ile Gmail Üzerinden Eposta Gönderme",
+        "Slug": "laravel-ile-gmail-uzerinden-eposta-gonderme",
+        "Excerpt": "Laravel, altyapısında kullandığı SwiftMailer kütüphanesi sayesinde SMTP, Mailgun, Mandrill, SparkPost, Amazon SES, PHP’nin mail fonksiyonu ve sendmail gibi bir çok mail driver desteği vardır. Benim en çok kullandığım ve güvendiğim mail gönderme yöntemi ise Gmail üzerinden smtp yolu ile eposta göndermek. Gmail’i bu şekilde kullanabilmek için aşağıdaki adımları izlemelisiniz.",
+        "Category": "PHP, Laravel, Golang"
+    }
+]
