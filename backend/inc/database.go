@@ -47,7 +47,7 @@ func GetDB() *gorm.DB {
 	return DB
 }
 
-// GetDB helps you to get a connection
+// GetDBErr helps you to get the db error
 func GetDBErr() error {
 	return DBErr
 }
