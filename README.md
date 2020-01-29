@@ -28,9 +28,9 @@ ORM veritabanı yönetim paketi.
 Veritabanı olarak Postgres kullanılmıştır. Gorm paketi ile gerekli bağlantılar yapılmıştır. Gorm'un esnek yapısı ile proje rahatlıkla SqlLite veya MySQL'e dönüştürülebilir.
 
 ## Server Tarafında Yapılan İşlemler
-Bütün sütunlar için Search
-Pagination
-Query limit
-Query order
+- Bütün sütunlar için Search
+- Pagination
+- Query limit
+- Query order
 
 ![Go Datatable Screenshot](https://github.com/yakuter/go-datatable/blob/master/screenshot.png)
